@@ -1,0 +1,13 @@
+body {
+    background-color: #c0c0c0; /* A classic light gray/silver */
+    font-family: "Charcoal", "Geneva", sans-serif;
+    color: #000000;
+}
+
+.main-container {
+    width: 800px;
+    margin: 40px auto; /* This centers the container on the page */
+    padding: 20px;
+    border: 2px solid #000;
+    background-color: #ffffff;
+}
